@@ -1,1 +1,2 @@
 # odin-recipes
+Having some basic HTMl and CSS knowledge already, my focus for this lesson is to instead improve my understanding of CLI, Git, and Github and streamline my ability to create digital projects. I had some misunderstandings regarding version control, and hopefully as the course progresses, I'll be able to utilize these tools to their fullest and be able to build something actually worthwhile.
